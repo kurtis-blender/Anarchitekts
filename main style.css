@@ -10,8 +10,7 @@
     color: white;
     font-family: "Jokerman";
     margin: auto;
-    margin-top: 1fr;
-    margin-bottom: 1fr;
+    line-height: 600px;
 }
 
 @font-face {
